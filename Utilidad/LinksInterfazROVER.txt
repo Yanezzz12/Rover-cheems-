@@ -1,0 +1,23 @@
+Aquí se documentan todas las fuentes de información utilizadas para construir la interfaz del ROVER
+
+Primer asset usado:
+https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605
+
+Qué es un tileset y tilemap:
+https://www.youtube.com/watch?v=e_kRunadJg0
+
+Cómo agregar assets a Unity:
+https://www.youtube.com/watch?v=0SoLm5RxPnk
+
+Usar un tilemap en Unity:
+https://www.youtube.com/watch?v=q53lrHbQxzY
+
+Cómo crear tiles:
+https://www.youtube.com/watch?v=ZmfNMaPW1bI
+
+Fondo marciano:
+https://opengameart.org/content/mars-background-pixel-art
+
+Crear juegos con vista elevada:
+https://www.youtube.com/watch?v=3ILrVFG93DU
+
