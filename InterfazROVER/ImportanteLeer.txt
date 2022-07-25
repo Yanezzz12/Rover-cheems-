@@ -1,0 +1,3 @@
+Github no permite subir archivos muy grandes, en la sección de Assets se encuentra el link de descarga de la carpeta
+
+Para usar el archivo deben hacer un proyecto vacío llsmado "InterfazROVER" y ahí tienen que reemplazar todas las carpetas que aquí se encuentran
