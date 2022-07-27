@@ -34,5 +34,20 @@ https://www.pixilart.com/draw
 Menú de pausa:
 https://www.youtube.com/watch?v=WQiUbygVLmg
 
+Cámara sigue al robot:
+https://www.youtube.com/watch?v=RSiLOQnACvo
+
+Documentación de la API de Unity para BoxColliders creados:
+https://docs.unity3d.com/ScriptReference/BoxCollider.html
+https://docs.unity3d.com/ScriptReference/Tilemaps.Tilemap.html
+https://docs.unity3d.com/ScriptReference/BoxCollider2D.html
+
+Creación de colliders para todo el mapa y el componente "composeCollider" que optimiza la creación de colliders para el entorno generado
+https://www.youtube.com/watch?v=eDOxDJEtE14
+
+
+
+
+
 //Nota
 Aprender pixel art Xd
