@@ -42,12 +42,18 @@ https://docs.unity3d.com/ScriptReference/BoxCollider.html
 https://docs.unity3d.com/ScriptReference/Tilemaps.Tilemap.html
 https://docs.unity3d.com/ScriptReference/BoxCollider2D.html
 
-Creación de colliders para todo el mapa y el componente "composeCollider" que optimiza la creación de colliders para el entorno generado
+Creación de colliders para todo el mapa y el componente "composeCollider" que optimiza la creación de colliders para el entorno generado:
 https://www.youtube.com/watch?v=eDOxDJEtE14
 
+Cómo girar al personaje mientras se mueve:
+https://www.youtube.com/watch?v=lJ1jv5OhZZE
 
+Cómo funciona Update( ) y FixedUpdate( ):
+https://www.youtube.com/watch?v=wuK9hVeRH2I
 
-
-
-//Nota
-Aprender pixel art Xd
+Documentación usada en la API de Unity
+https://docs.unity3d.com/ScriptReference/Transform.Translate.html
+https://docs.unity3d.com/ScriptReference/Quaternion.RotateTowards.html
+https://docs.unity3d.com/ScriptReference/Quaternion.LookRotation.html
+https://docs.unity3d.com/ScriptReference/Transform.html
+https://docs.unity3d.com/ScriptReference/Mathf.Clamp01.html
