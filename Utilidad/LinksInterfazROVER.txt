@@ -34,45 +34,5 @@ https://www.pixilart.com/draw
 Menú de pausa:
 https://www.youtube.com/watch?v=WQiUbygVLmg
 
-Cámara sigue al robot:
-https://www.youtube.com/watch?v=RSiLOQnACvo
-
-Documentación de la API de Unity para BoxColliders creados:
-https://docs.unity3d.com/ScriptReference/BoxCollider.html
-https://docs.unity3d.com/ScriptReference/Tilemaps.Tilemap.html
-https://docs.unity3d.com/ScriptReference/BoxCollider2D.html
-
-Creación de colliders para todo el mapa y el componente "composeCollider" que optimiza la creación de colliders para el entorno generado:
-https://www.youtube.com/watch?v=eDOxDJEtE14
-
-Cómo girar al personaje mientras se mueve:
-https://www.youtube.com/watch?v=lJ1jv5OhZZE
-
-Cómo funciona Update( ) y FixedUpdate( ):
-https://www.youtube.com/watch?v=wuK9hVeRH2I
-
-Documentación usada en la API de Unity
-https://docs.unity3d.com/ScriptReference/Transform.Translate.html
-https://docs.unity3d.com/ScriptReference/Quaternion.RotateTowards.html
-https://docs.unity3d.com/ScriptReference/Quaternion.LookRotation.html
-https://docs.unity3d.com/ScriptReference/Transform.html
-https://docs.unity3d.com/ScriptReference/Mathf.Clamp01.html
-
-Imagen de inspiración para el fondo de inicio de la interfaz:
-https://i.pinimg.com/originals/d7/e5/8e/d7e58e4536b92ae325caa23c27689e72.png
-
-Cómo hacer una pantalla de inicio
-https://www.youtube.com/watch?v=sJUBoFgO7Ng
-
-Cambiar la fuente de la interfaz
-https://www.youtube.com/watch?v=gMd0xDEFE20
-
-Rolitas que ayudan moralmente:
-https://www.youtube.com/watch?v=HhZaHf8RP6g
-https://www.youtube.com/watch?v=u1V8YRJnr4Q&list=RDu1V8YRJnr4Q
-https://www.youtube.com/watch?v=imQGGordIjk&list=RDMMimQGGordIjk
-
-
-
-
-
+//Nota
+Aprender pixel art Xd
